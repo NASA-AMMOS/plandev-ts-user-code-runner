@@ -1,4 +1,4 @@
-# Typescript User Code Runner
+# PlanDev Typescript User Code Runner
 
 A simple way to safely run user code written in Typescript.
 
